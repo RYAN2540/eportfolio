@@ -10,7 +10,7 @@ const about = {
   role: 'Full Stack Web Developer',
   description:
     'Im a Full Stack Web Developer quite passionate,adaptable,resilient and a team player.Ready to start my career in the Tech Industry.Having months of experience working on various projects and also learning to work with a team profession software developers to create web applications more about that in the Resume',
-  resume: 'https://drive.google.com/file/d/1O0fqIOkx0yAU53sCKbfS-tV_IM545fmq/view?usp=sharing',
+  resume: 'https://docs.google.com/document/d/1KqvtlMmuWgF1vzizF5SAWoC5dbvBk9FPmCjyQ7kOsxM/edit?usp=sharing',
   social: {
     linkedin: 'https://www.linkedin.com/in/ryan-rotich-16157b23a/',
     github: 'https://github.com/RYAN2540',
