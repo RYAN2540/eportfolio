@@ -10,9 +10,9 @@ const about = {
   role: 'Full Stack Web Developer',
   description:
     'Im a Full Stack Web Developer quite passionate,adaptable,resilient and a team player.Ready to start my career in the Tech Industry.Having months of experience working on various projects and also learning to work with a team profession software developers to create web applications more about that in the Resume',
-  resume: 'https://docs.google.com/document/d/1KqvtlMmuWgF1vzizF5SAWoC5dbvBk9FPmCjyQ7kOsxM/edit?usp=sharing',
+  resume: 'https://drive.google.com/file/d/1U_LkgwU2lbDk3wQ8pJE-ny0fWuAJh0wo/view?usp=sharing',
   social: {
-    linkedin: 'https://www.linkedin.com/in/ryan-rotich-16157b23a/',
+    linkedin: 'https://www.linkedin.com/in/ryan-rotich/',
     github: 'https://github.com/RYAN2540',
   },
 }
@@ -34,7 +34,7 @@ const projects = [
       'Neighborhood Watch is a neighborhood app tailored for a specific neighborhood.Users may take on either of the two user roles, i.e occupant or administrator.The roles of the administrator involve: adding occupants,adding amenities and general oversight of neighborhood activities.An occupant is able to make a post visible to the neighborhood and also add a business they think would interest other occupants.',
     stack: ['Html', 'CSS', 'Python', 'Django', 'Cloudinary'],
     sourceCode: 'https://github.com/RYAN2540/neighborhood-watch',
-    livePreview: 'https://neighborhood-ryan.herokuapp.com/',
+    livePreview: ' https://neighborhoodwatch.up.railway.app',
   },
   {
     name: 'GitHubSearch',
@@ -58,7 +58,7 @@ const projects = [
       'La Galleria is a Django based personal gallery.',
     stack: ['Python v3.9.0, Django 3.0.7, Javascript, Cloudinary, Bootstrap, HTML, CSS'],
     sourceCode: 'https://github.com/RYAN2540/La-Galleria',
-    livePreview: 'https://lagalleria.herokuapp.com/',
+    livePreview: 'https://lagalleria.up.railway.app/',
   },
   {
     name: 'GiphyForU',
